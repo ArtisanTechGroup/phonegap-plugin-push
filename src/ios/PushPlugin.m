@@ -28,7 +28,6 @@
 
 #import "PushPlugin.h"
 #import "AppDelegate+notification.h"
-@import FirebaseInstanceID;
 @import Firebase;
 @import FirebaseAnalytics;
 
